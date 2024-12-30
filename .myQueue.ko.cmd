@@ -1,1 +1,0 @@
-cmd_/home/coding/OS/ex1/myQueue.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/coding/OS/ex1/myQueue.ko /home/coding/OS/ex1/myQueue.o /home/coding/OS/ex1/myQueue.mod.o;  true
